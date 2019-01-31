@@ -3,4 +3,5 @@
     <string name="log_in_to_twitter">Log in to Twitter.</string>
     <string name="phone_email_or_username">Phone, Email, or Username</string>
     <string name="sign_up">Sign up</string>
+    <string name="todo">TODO</string>
 </resources>
