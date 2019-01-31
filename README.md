@@ -1,2 +1,2 @@
 # LoginActivity
-Login screen for a Twitter app
+Clone of twitter login screen
